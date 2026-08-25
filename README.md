@@ -72,7 +72,7 @@
 - **Backup** to JSON (format v2): in the browser — file download; in the APK — written to `Documents/` via Capacitor Filesystem.
 - **Import** with format validation and a replacement confirmation.
 
-## 🛠 Tech
+### 🛠 Tech
 
 - **HTML / CSS / Vanilla JS** — a single file, no runtime dependencies.
 - **Capacitor** (`@capacitor/core`, `@capacitor/app`, `@capacitor/local-notifications`, `@capacitor/filesystem`) for the Android build.
