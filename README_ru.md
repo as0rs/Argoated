@@ -73,7 +73,7 @@
 - **Бэкап** в JSON (формат v2): в браузере — скачивание файла, в APK — запись в `Documents/` через Capacitor Filesystem.
 - **Импорт** с валидацией формата и подтверждением замены.
 
-## 🛠 Технологии
+### 🛠 Технологии
 
 - **HTML / CSS / Vanilla JS** — один файл, без зависимостей в рантайме.
 - **Capacitor** (`@capacitor/core`, `@capacitor/app`, `@capacitor/local-notifications`, `@capacitor/filesystem`) для Android‑сборки.
