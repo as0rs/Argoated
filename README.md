@@ -9,6 +9,8 @@
 ## ✨ Features
 
 ### ✅ Habits
+![Uploading photo_2026-11-17_20-47-36.jpg…]()
+
 - **Two habit types**
   - *"Yes / No"* — done / not done;
   - *Measurable* — a numeric value (ml, min, km…) with a goal and a condition.
@@ -58,6 +60,8 @@
 - **Record analytics**: current / first value, change, number of updates, max / min + a line chart of the history.
 
 ### 👤 Profile
+![Uploading photo_2026-11-17_20-47-37.jpg…]()
+
 - Avatar (upload, crop, round/square shape, custom border color HEX), name.
 - Weight, height, date of birth (age auto-calculated), gender.
 - Stats: days in the app, time in the app, level, streaks, marks.
