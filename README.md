@@ -9,7 +9,7 @@
 ## ✨ Features
 
 ### ✅ Habits
-![Uploading photo_2026-11-17_20-47-36.jpg…]()
+![](1.jpg)
 
 - **Two habit types**
   - *"Yes / No"* — done / not done;
@@ -60,7 +60,7 @@
 - **Record analytics**: current / first value, change, number of updates, max / min + a line chart of the history.
 
 ### 👤 Profile
-![Uploading photo_2026-11-17_20-47-37.jpg…]()
+![](2.jpg)
 
 - Avatar (upload, crop, round/square shape, custom border color HEX), name.
 - Weight, height, date of birth (age auto-calculated), gender.
