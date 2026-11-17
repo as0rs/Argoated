@@ -77,5 +77,3 @@
 - **HTML / CSS / Vanilla JS** — a single file, no runtime dependencies.
 - **Capacitor** (`@capacitor/core`, `@capacitor/app`, `@capacitor/local-notifications`, `@capacitor/filesystem`) for the Android build.
 - Canvas charts, CSS Grid/Flex, PWA meta (fullscreen, safe-area).
-
----
