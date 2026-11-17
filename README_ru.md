@@ -80,5 +80,3 @@
 - Canvas‑графики, CSS Grid/Flex, PWA‑мета (fullscreen, safe‑area).
 
 ---
-
-*Argoated — привычки как путешествие: отмечай, держи серию, становись Легендой.* ⛵
