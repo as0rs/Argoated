@@ -81,3 +81,14 @@
 - **HTML / CSS / Vanilla JS** — a single file, no runtime dependencies.
 - **Capacitor** (`@capacitor/core`, `@capacitor/app`, `@capacitor/local-notifications`, `@capacitor/filesystem`) for the Android build.
 - Canvas charts, CSS Grid/Flex, PWA meta (fullscreen, safe-area).
+
+## 💖 Support the Project
+
+**Argoated is and always will be 100% free, open-source, and ad-free.** There are no paywalls, no premium tiers, and absolutely no telemetry. I build this tool for myself and the community.
+
+If this tracker helps you on your "Argonaut's journey" to build better habits, you can support its independent development in two simple ways:
+
+1. **Financial Support:** [Buy me a coffee on Boosty](https://boosty.to/asors). Every contribution, no matter how small, helps keep this project alive, independent, and free from corporate influence.
+2. **Community Support:** Leave a ⭐ star on [GitHub](https://github.com/as0rs/Argoated/tree/main) or share your feedback. It’s the best free way to help others discover this project!
+
+Thank you for valuing privacy and independent development. ⛵
