@@ -79,5 +79,3 @@
 - Canvas charts, CSS Grid/Flex, PWA meta (fullscreen, safe-area).
 
 ---
-
-*Argoated — habits as a journey: mark, keep the streak, become a Legend.* ⛵
