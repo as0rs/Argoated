@@ -78,5 +78,3 @@
 - **HTML / CSS / Vanilla JS** — один файл, без зависимостей в рантайме.
 - **Capacitor** (`@capacitor/core`, `@capacitor/app`, `@capacitor/local-notifications`, `@capacitor/filesystem`) для Android‑сборки.
 - Canvas‑графики, CSS Grid/Flex, PWA‑мета (fullscreen, safe‑area).
-
----
